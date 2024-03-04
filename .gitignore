@@ -1,0 +1,7 @@
+# ignore all node modules
+node_modules/*
+# ignore config file
+config/config.env
+out/ER/*
+node_modules
+ER.puml
